@@ -1,0 +1,35 @@
+.container{
+    background-color: grey;
+    height: 100vh;
+}
+
+h1{
+    margin-left: 20px
+}
+
+form{
+    margin-left: 10px;
+}
+
+button{
+    margin-left: 150px;
+}
+
+#weight-guide{
+    margin-left: 150px;
+}
+
+#result{
+    margin-left: 150px;
+    font-size: 40px;
+    margin-top: 20px;
+    color: white;
+}
+
+#message{
+    margin-left: 150px;
+    font-size: 20px;
+    margin-top: 20px;
+    color: white;
+}
+
